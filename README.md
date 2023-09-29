@@ -1,5 +1,7 @@
 # Recommendation_System
-A Project on Movie Recommendation and Rating Prediction Using Python Programing &amp; Machine Learning Concept  
+A Project on Movie Recommendation and Rating Prediction Using Python Programing &amp; Machine Learning Concept.
+
+The Original dataset is taken from Kaggle Netflix Movie Rating Dataset https://www.kaggle.com/datasets/rishitjavia/netflix-movie-rating-dataset
 
 Certainly! Here's a description for your collaborative filtering movie recommendation project that you can use for your GitHub repository:
 
