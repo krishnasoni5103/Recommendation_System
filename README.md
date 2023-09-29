@@ -1,8 +1,6 @@
 # Recommendation_System
 A Project on Movie Recommendation and Rating Prediction Using Python Programing &amp; Machine Learning Concept.
 
-The Original dataset is taken from Kaggle Netflix Movie Rating Dataset https://www.kaggle.com/datasets/rishitjavia/netflix-movie-rating-dataset
-
 Certainly! Here's a description for your collaborative filtering movie recommendation project that you can use for your GitHub repository:
 
 ---
@@ -12,6 +10,9 @@ Certainly! Here's a description for your collaborative filtering movie recommend
 ### Overview:
 
 This project implements a movie recommendation system based on collaborative filtering using the Surprise library. Collaborative filtering is a popular technique in recommendation systems, where users are recommended items (in this case, movies) based on their similarities to other users. This system analyzes historical movie ratings from users and predicts new movies to recommend to them.
+
+### Dataset:
+The Original dataset is taken from Kaggle Netflix Movie Rating Dataset https://www.kaggle.com/datasets/rishitjavia/netflix-movie-rating-dataset
 
 ### Features:
 
